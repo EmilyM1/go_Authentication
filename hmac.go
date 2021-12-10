@@ -33,4 +33,4 @@ func signMsg(msg []byte) ([]byte){
   return signedwithkey
 }
 
-// can use hmac equal to verify match
+// can use hmac equal to verify the match
